@@ -3,7 +3,10 @@ package seleniumPrac;
 public class GitPrac {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Amol");
+		System.out.println("Popat");
+		System.out.println("Aldar");
+		
 
 	}
 
