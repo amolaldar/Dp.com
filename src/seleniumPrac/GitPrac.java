@@ -6,6 +6,9 @@ public class GitPrac {
 		System.out.println("Amol");
 		System.out.println("Popat");
 		System.out.println("Aldar");
+		System.out.println("Amol");
+		System.out.println("Popat");
+		System.out.println("Aldar");
 		
 
 	}
