@@ -12,5 +12,14 @@ public class GitPrac {
 		
 
 	}
+	public void m1() {
+		System.out.println("Sneha");
+	}
+   public void m2() {
+	   System.out.println("Bajirao");
+	}
+   public void m3() {
+	   System.out.println("Walekar");
+}
 
 }
