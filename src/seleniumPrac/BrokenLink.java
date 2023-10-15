@@ -30,7 +30,7 @@ public class BrokenLink {
 			conn.connect();
 			int respCode = conn.getResponseCode();
 			System.out.println(respCode);
-			a.assertTrue(respCode < 400, "The link with Text" + link.getText() + "is broken with code" + respCode);
+			a.assertTrue(respCode < 400, "The link with Text " + link.getText() + "is broken with code" + respCode);
 		}
 		a.assertAll();
 	}
