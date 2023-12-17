@@ -32,8 +32,6 @@ public class KeyworAuto {
 			driver.findElement(By.xpath("(//button[text()='Search'])[1]")).click();
 			String propCount = driver.findElement(By.cssSelector("h6.1")).getText().split("Properties")[0].trim();
 			int countProp = Integer.parseInt(propCount);
-			string abc;
-
 		}
 	}
 }
